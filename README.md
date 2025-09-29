@@ -1,8 +1,8 @@
 # AC_Inginerie_Software_2025-2026
 
 # Assignments
- - [Assignment One - 70 points](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/blob/master/Assignments/Assignment1.pdf)
- - [Assignment Two - 30 points](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/tree/master/Assignments/Assignment2.pdf)
+ - [Assignment One - 70 points](https://github.com/AlexandruGH/AC_Inginerie_Software_2025-2026/blob/main/projects/Assignment1.pdf)
+ - [Assignment Two - 30 points](https://github.com/AlexandruGH/AC_Inginerie_Software_2025-2026/blob/main/projects/Assignment2.pdf)
  ### Bonus
  
 ## ~ Laboratory  Rules ~
@@ -38,7 +38,7 @@
 
 ### Homework 1 - Zoowsome
 
-- [Model an application for a Zoo in Cluj](https://drive.google.com/file/d/1VIDNvXEfkyjj4BiOQa0JcIuqlyQdKerY/view?usp=sharing)
+- [Model an application for a Zoo in Cluj](https://github.com/AlexandruGH/AC_Inginerie_Software_2025-2026/blob/main/homework/Homework%20-%201%20-%20Zoo.pdf)
 
 ## Laborator 2 - SOLID 
 
@@ -61,4 +61,4 @@
  - [Java Design Patterns tutorial. Play the videos with extra speed](https://www.youtube.com/playlist?list=PLtTVgBdymZBjtal6O9bw1esdLFiF73hdz)
 
 ### Homework 2 - SOLID
-- [Fix broken code such that it fits the SOLID principles](https://github.com/AlexandruGH/AC_Inginerie_Software_2024-2025/tree/main/solid)
+- [Fix broken code such that it fits the SOLID principles](https://github.com/AlexandruGH/AC_Inginerie_Software_2025-2026/tree/main/solid)
