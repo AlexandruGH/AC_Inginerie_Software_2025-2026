@@ -16,18 +16,18 @@ public class SMain {
         employee.reportHours();
         employee.save();
     }
-    ymentService employeePaymentService = new EmployeePaymentService(additionalPaymentService);
-        System.out.println(employee + " payed on status: " + employeePaymentService.calculatePay(employee));
-
-    EmployeeTimetrackingService employeeTimetrackingService = new EmployeeTimetrackingService();
-        System.out.println(employeeTimetrackingService.reportHours(employee));
-
-    EmployeeRepository employeeRepository = new EmployeeRepository();
+    
     private static void testGoodS() {
         GoodEmployee employee = new GoodEmployee("A", "GoodEmployee!", 42);
 
         EmployeeAdditionalPaymentService additionalPaymentService = new EmployeeAdditionalPaymentService();
-        EmployeePa
+        EmployeePaymentService employeePaymentService = new EmployeePaymentService(additionalPaymentService);
+        System.out.println(employee + " payed on status: " + employeePaymentService.calculatePay(employee));
+
+    	EmployeeTimetrackingService employeeTimetrackingService = new EmployeeTimetrackingService();
+        System.out.println(employeeTimetrackingService.reportHours(employee));
+
+    	EmployeeRepository employeeRepository = new EmployeeRepository();
         employeeRepository.save(employee);
     }
 
