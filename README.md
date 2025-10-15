@@ -60,5 +60,66 @@
 ### Practice
  - [Java Design Patterns tutorial. Play the videos with extra speed](https://www.youtube.com/playlist?list=PLtTVgBdymZBjtal6O9bw1esdLFiF73hdz)
 
+## Laborator 3 - Dependency Injection & Design Patterns
+
+### Story
+- [Rada Mihalcea. Povestea româncei absolvente de UTCN Calculatoare care a ajuns în topul geniilor din SUA](https://adevarul.ro/stiri-locale/cluj-napoca/exclusiv-povestea-romancei-care-l-a-cucerit-pe-1563851.html)
+
+### Theory
+- [Strong vs Loose Coupling](https://www.baeldung.com/java-coupling-classes-tight-loose)
+- [Primitive vs Wrapper types - Autoboxing vs Unboxing](https://konstantinmb.medium.com/understanding-primitive-types-and-wrapper-classes-in-java-a-comprehensive-guide-6013c6b1c87)
+- [Dependency Injection Explained in 15 seconds.](https://www.youtube.com/watch?v=J1f5b4vcxCQ&ab_channel=CodeAesthetic)
+- [Dependency Injection and history explained. First 10 minutes of video are more relevant. Not necessary to follow the entire video with Dagger and stuff.](https://www.youtube.com/watch?v=oK_XtfXPkqw&ab_channel=GoogleforDevelopers)
+- [Thread Safe with double checking Singleton in JAVA](https://www.baeldung.com/java-singleton-double-checked-locking)
+- [Singleton Breakdown Explanation](https://www.digitalocean.com/community/tutorials/java-singleton-design-pattern-best-practices-examples?fbclid=IwZXh0bgNhZW0CMTAAAR0NrdtG7M5gR9itACy5d2tZFtCkdmxlNlC8AXPw-ym7_HcS8PRzfAENu8s_aem_FQSAd6PRGvf1xbFUzhEm8Q)
+- [volatile keyword in JAVA](https://www.geeksforgeeks.org/volatile-keyword-in-java/)
+- [Hyperthreading](https://www.youtube.com/watch?v=wnS50lJicXc&t=202s&ab_channel=Techquickie)
+- [final keyword in JAVA](https://www.baeldung.com/java-final)
+- [static keyword in JAVA](https://www.baeldung.com/java-static)
+- [Immutability - Functional Programming with JAVA](https://belief-driven-design.com/functional-programming-with-java-immutability-ae3372311b9/)
+- [Java Order of Execution of Initialization Blocks and Constructors](https://www.geeksforgeeks.org/order-execution-initialization-blocks-constructors-java/?fbclid=IwZXh0bgNhZW0CMTAAAR2bvuAR0iLUIRBFbH7ZCxcvVOiudr81Cbfmhh6hs-r8ktgwP9cFfJ_wzwA_aem_NLKH_NFshj7ArD_Zpr4GWw)
+- [Java. Pass by Value vs Pass by Reference](https://www.baeldung.com/java-pass-by-value-or-pass-by-reference)
+- [Better Commit Messages](https://skerritt.blog/writing-better-commit-messages/)
+- [TDD - Test Driven Development. Writing tests first.](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
+
+
+### Practice
+- [Java Multithreading Tutorial (Play with extra speed)](https://www.youtube.com/playlist?list=PLBB24CFB073F1048E)
+
+### Homework
+- [2 Design Patterns Examples Implementation from each category. i.e. Factory Method, Abstract Factory, Adapter, Proxy, Observer, Strategy](https://refactoring.guru/design-patterns/catalog)
+
+
+## Laborator 4 - Design Patterns & Layers
+
+### Story
+- [Clean Code Talks "Global States and Singletons"](https://www.youtube.com/watch?v=-FRm3VPhseI&ab_channel=GoogleTechTalks)
+
+### Theory 
+- [Java is Pass by Value](https://www.baeldung.com/java-pass-by-value-or-pass-by-reference)
+- [Java Shallow Copy vs Deep Copy](https://www.baeldung.com/cs/deep-vs-shallow-copy)
+- [Java Immutability](https://www.baeldung.com/java-immutable-object)
+- [POJO vs Java Bean](https://www.baeldung.com/java-pojo-class)
+- [Why almost everyone gets a POJO wrong?](https://www.youtube.com/watch?v=oqPiEc2zNb0&ab_channel=CodingwithJohn)
+- [Layers Software Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
+- [Why is Singleton considered an anti-pattern?](https://medium.com/aia-sg-techblog/why-singleton-pattern-is-considered-as-anti-design-pattern-c81dd8b7e757)
+- [Oracle JDK vs OpenJDK](https://www.baeldung.com/oracle-jdk-vs-openjdk)
+
+### Practice
+
+- [SOLID Homework Exercises Solved](https://github.com/AlexandruGH/AC_Inginerie_Software_2023-2024/tree/solid/solid/solvedSolid)
+- [Java Debugging in IntelliJ](https://www.youtube.com/watch?v=1bCgzjatcr4)
+ 
+- [Lab code project - each group has its own branch](https://github.com/AlexandruGH/AC_Inginerie_Software_2023-2024/tree/grupa30234/Grupa_30234)
+
+#### MySQL installation 
+- [MySQL Installer - after running the installer make sure you will have the mysql server, workbench and jdbc connector installed](https://dev.mysql.com/downloads/installer/)
+- [XAMPP Installation - make sure mysql is started](https://www.apachefriends.org/)
+- [TCP View Installation - allows you to see ports and close down applications](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview)
+- [How to find mysql installation path](https://sqlbak.com/blog/how-to-find-path-to-mysql-installation-directory-on-windows-and-add-it-to-path-environment-variable/)
+- [In order for mysql command to work in terminal we must add it to the PATH. Add MYSQL_PATH/bin to PATH](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)
+- [IntelliJ Database view plugin](https://www.jetbrains.com/help/idea/2023.1/database-tool-window.html)
+
+
 ### Homework 2 - SOLID
 - [Fix broken code such that it fits the SOLID principles](https://github.com/AlexandruGH/AC_Inginerie_Software_2025-2026/tree/main/solid)
