@@ -101,7 +101,8 @@
 - [Java Immutability](https://www.baeldung.com/java-immutable-object)
 - [POJO vs Java Bean](https://www.baeldung.com/java-pojo-class)
 - [Why almost everyone gets a POJO wrong?](https://www.youtube.com/watch?v=oqPiEc2zNb0&ab_channel=CodingwithJohn)
-- [Layers Software Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
+- [Layers Software Architecture]([https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html](https://medium.com/etribes-tech/software-architecture-patterns-c2ec7d0ca537))
+- [Java JDK - Gradle Compatibility Matrix](https://docs.gradle.org/current/userguide/compatibility.html)
 - [Why is Singleton considered an anti-pattern?](https://medium.com/aia-sg-techblog/why-singleton-pattern-is-considered-as-anti-design-pattern-c81dd8b7e757)
 - [Oracle JDK vs OpenJDK](https://www.baeldung.com/oracle-jdk-vs-openjdk)
 
