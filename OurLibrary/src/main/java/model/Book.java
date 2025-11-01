@@ -1,12 +1,12 @@
 package model;
 
-import java.util.Date;
+import java.time.LocalDate;
 
 public class Book {
     private Long id;
     private String author;
     private String title;
-    private Date publishedDate;
+    private LocalDate publishedDate;
 
     public Long getId() {
         return id;
@@ -32,11 +32,11 @@ public class Book {
         this.title = title;
     }
 
-    public Date getPublishedDate() {
+    public LocalDate getPublishedDate() {
         return publishedDate;
     }
 
-    public void setPublishedDate(Date publishedDate) {
+    public void setPublishedDate(LocalDate publishedDate) {
         this.publishedDate = publishedDate;
     }
 
