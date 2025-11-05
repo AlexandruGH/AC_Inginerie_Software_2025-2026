@@ -124,3 +124,117 @@
 
 ### Homework 2 - SOLID
 - [Fix broken code such that it fits the SOLID principles](https://github.com/AlexandruGH/AC_Inginerie_Software_2025-2026/tree/main/solid)
+
+## Laborator 5 - Layers Repository & Database
+
+### Story
+- [Clean Code Talks - Don't Look for Things](https://www.youtube.com/watch?v=RlfLCWKxHJ0) 
+
+### Theory 
+
+#### SQL Injection Concept Attack & Defense
+- [SQL Injection Concept](https://youtu.be/_jKylhJtPmI?si=aAsNzd5KMsvbG6AS)
+- [SQL Injection in JAVA and Types of SQL Injection](https://www.digitalocean.com/community/tutorials/sql-injection-in-java)
+- [PreparedStatement - How to prevent SQL Injection](https://www.baeldung.com/sql-injection)
+
+#### Table Engines and specifics for SQL Queries
+- [MySQL Table Types Storage Engines](https://www.javatpoint.com/mysql-table-types-storage-engines)
+- [InnoDB MySQL Engine Key Features and Advantages](https://dev.mysql.com/doc/refman/8.0/en/innodb-introduction.html)
+- [execute vs executeQuery vs executeUpdate](https://stackoverflow.com/questions/16625656/statement-executesql-vs-executeupdatesql-and-executequerysql)
+- [SQL DDL vs DML vs DCL](https://www.scaler.com/topics/ddl-dml-dcl/)
+- [Truncate vs Delete](https://canro91.github.io/2021/01/04/TruncateVsDelete/)
+
+#### Transactional Behavior in Databases and ACID Properties
+- [Transactional Database - ACID Properties (Atomicity, Consistency, Isolation, Durability)](https://www.mongodb.com/basics/acid-transactions)
+- [One-To-One, One-To-Many and Many-To-Many relationships in Database Design](https://dzone.com/articles/how-to-handle-a-many-to-many-relationship-in-datab)
+
+
+####  Database Indexes specifics B-Trees: Search, Insert, Delete Times of O(Log(N)) vs HashTable O(1)
+- [Clustered vs NonClustered Database Indexes](https://www.scaler.com/topics/clustered-and-non-clustered-index/)
+- [B-Tree Indexing vs. Hash Indexing vs. Graph Indexing: Which is Right for Your Database](https://myscale.com/blog/b-tree-vs-hash-indexing-right-for-database/)
+- [Why SQL Indexes uses B-Trees instead of Hash Tables which have much faster Look-Up, Insert and Delete Times of O(1) instead of O(logN) for B-Trees?](https://dev.mysql.com/doc/refman/8.0/en/index-btree-hash.html)
+- [Same as Above - Short StackOverflow answer](https://stackoverflow.com/questions/1636379/why-db-indexes-use-balanced-trees-not-hashtables)
+- [B-Trees and B+Trees in Databases](https://builtin.com/data-science/b-tree-index)
+
+#### Java features Discussed in the Lab
+- [Java Optional](https://www.baeldung.com/java-optional)
+- [Compare Objects(Long) with equals not ==](https://www.baeldung.com/java-compare-long-values)
+- [Java Autoboxing and Unboxing](https://www.baeldung.com/java-primitives-vs-objects)
+- [Java 8 features: Streams Lambda Expressions, Filter, Map, Reduce](https://www.sitepoint.com/java-8-streams-filter-map-reduce/)
+- [Java Parallel Stream](https://www.baeldung.com/java-when-to-use-parallel-stream)
+- [Functional Programming in Java](https://www.baeldung.com/java-functional-programming)
+
+### Practice
+
+#### Lab code example. Make sure it runs, fill in the missing repository methods and reproduce SQL Injection Attack. Debugger is your friend. 
+#### MySQL Tutorial
+- [Really NICE MySQL Command Line Tutorial (Foreign Keys, Joins, Indexes, Triggers, Stored Procedures, etc.) - just skip the linux distro setup at the start.](https://www.youtube.com/watch?v=uWkcxasFWzQ)
+
+
+## Laborator 6 - Service, Cache and Authorization
+
+### Story
+- [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
+- [8 Design Patterns Every Developer Should Know](https://youtu.be/tAuRQs_d9F8?si=2IhKQrqXfchWvKCn)
+
+### Theory
+
+- [Decorator pattern](https://refactoring.guru/design-patterns/decorator)
+- [What is CPU Cache](https://www.youtube.com/watch?v=sHqNMHf2UNI)
+- [Performance Upgrade via Software Caching](https://orkhanscience.medium.com/upgrade-performance-via-caching-5-min-read-19fafd56d704)
+- [Caching in Software Development. What it is and how it works](https://auth0.com/blog/what-is-caching-and-how-it-works/)
+- [Pros and Cons of Caching](https://www.bytesizedpieces.com/posts/cache-pro-con)
+- [Transactional vs Analytical Databases](https://www.cdata.com/blog/transactional-vs-analytical-databases)
+- [Database Relationships: One-To-One, One-To-Many, Many-To-Many | Foreign Keys, 1, 2, 3 Normalization Forms](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKn20DFbNeLAAbw4ZMTlZPH)
+- [How to design One-To-One, One-To-Many and Many-To-Many relationships](https://stackoverflow.com/questions/7296846/how-to-implement-one-to-one-one-to-many-and-many-to-many-relationships-while-de)
+- [User Role Rights concepts simply detailed](https://www.linkedin.com/pulse/database-structure-user-role-management-aj-february)
+- [Role-based access control (RBAC) vs Attribute-based access control (ABAC)](https://www.nikhilajain.com/post/user-role-permission-model)
+
+### Practice
+
+#### Make sure current project is working and you understand its code and functionality
+#### Add suport for the EBook(Long id, String author, String title, String format, Date publishedDate) and AudioBook(Long id, String author, String title, int runTime, Date publishedDate) into our aplication: Service, Repository, Database, Model.
+
+
+## Laborator 7 - Generics, Bootstrapping, Scripting, Constants, Hashing, Authentication and UI/JavaFX
+
+### Story
+- [How to get ahead of 99% of Software Engineers](https://youtu.be/q9240p1hacc?si=mZB46iFKUHva9g7M)
+- [Must Know Junior Role Java Interview Questions](https://www.youtube.com/watch?v=auCdqGdn2as)
+
+
+### Theory
+
+#### Generic Repository
+- [Generic Repository just a lazy Anti-Pattern?](https://www.ben-morris.com/why-the-generic-repository-is-just-a-lazy-anti-pattern/)
+- [Downsides in the Generic Repository Pattern](https://www.c-sharpcorner.com/article/the-downsides-of-using-the-repository-pattern/)
+- [Generic Repository. Just using it wrong?](https://brianbu.com/2019/09/25/the-repository-pattern-isnt-an-anti-pattern-youre-just-doing-it-wrong/)
+- [Generic Repository Pattern Opinion](https://goodjava.org/blog?rec_id=17)
+
+#### Patterns, Anti-Patterns and Good Practices
+- [Builder Pattern Inheritance using Generics](https://binarycoders.dev/2020/02/24/builder-pattern-inheritance/)
+
+- [Java AntiPatterns](https://sourcemaking.com/antipatterns/software-development-antipatterns)
+- [The Law of Leaky Absractions](http://www.principles-wiki.net/principles:law_of_leaky_abstractions)
+
+- [Database Table Inheritance: One-Table vs One-Table-For-Each vs Joined-Table](https://dba.stackexchange.com/questions/36573/how-to-model-inheritance-of-two-tables-mysql)
+
+- [Java Constants Good Practices](https://www.baeldung.com/java-constants-good-practices)
+- [Java Static Keyword - especially static nested classes](https://www.baeldung.com/java-static)
+- [DAO vs Repository](https://www.baeldung.com/java-dao-vs-repository)
+- [Generics Type Parameter Bounds vs Wildcard](https://www.baeldung.com/java-generics-type-parameter-vs-wildcard)
+
+### Practice
+- [Java FX TheNewBoston Tutorial](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG)
+- [Making JavaFX Work with IntelliJ Gradle](https://www.youtube.com/watch?v=bRpGnCjJ0ro)
+
+#### Lab Code examples available on the branch and Explanation Recording
+#### MySQL Dependency for Gradle
+- [MySQL Dependency for Gradle. To include in the dependencies block from build.gradle.](https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.33)
+
+#### MySQL Tutorial
+
+- [MySQL Tutorial](https://www.youtube.com/playlist?list=PLmpc3xvYSk4wGOo2TY0qNsu62PsHfU1vh)
+
+#### Homework
+##### Add Sale support for the BookStore application: support Book price, stock and an Order Table to store what has been sold and at when
