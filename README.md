@@ -238,3 +238,42 @@
 
 #### Homework
 ##### Add Sale support for the BookStore application: support Book price, stock and an Order Table to store what has been sold and at when
+
+## Laboratory 8 - Fowler Notification Pattern, Password and how to store them
+
+### Theory
+- [Fowler Notification Pattern](https://martinfowler.com/articles/replaceThrowWithNotification.html)
+
+#### Password Hashing
+- [Have I been pwned?](https://haveibeenpwned.com/)
+- [Hashing Algorithm Properties](https://www.analog.com/en/technical-articles/back-to-basics-secure-hash-algorithms.html)
+- [JAVA Password Hashing](https://www.baeldung.com/java-password-hashing)
+- [Is your password in one of this lists? Change it now!](https://wiki.skullsecurity.org/index.php/Passwords)
+- [What makes a hasing algorithm good for password hashing?](https://crypto.stackexchange.com/questions/24/what-makes-a-hash-function-good-for-password-hashing)
+- [Rainbow table](https://www.csoonline.com/article/570931/rainbow-tables-explained-how-they-work-and-why-theyre-mostly-obsolete.html)
+- [SALTING Passwords. How to protect against Rainbow Table attacks](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
+- [Password Hashing Competition - Who's the winner?](https://www.password-hashing.net/)
+- [The Best Algorithms for Hashing Passwords](https://www.bellatorcyber.com/blog/best-password-hashing-algorithms-of-2023)
+- [Password Pepper Explained](https://cloudbuild.co.uk/tag/password-pepper-explained/)
+- [Pepper Pros and Cons](https://nordpass.com/blog/pepper-password/)
+- [How to Store Passwords Securely with PBKDF2?](https://medium.com/@kasunpdh/how-to-store-passwords-securely-with-pbkdf2-204487f14e84)
+
+### Practice
+- [Java FX Table View](https://docs.oracle.com/javafx/2/ui_controls/table-view.htm)
+- [Java FX how to switch scenes](https://www.youtube.com/watch?v=7LxWQIDOzyE&list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG&index=4)
+- [Java FX Table View - Videos 17 to 20](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG)
+- [Java FX Data Binding and Properties - Videos 28 to 30](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG)
+
+## Laboratory 9 - Command, Strategy, Observer, MVC
+
+### Theory
+- [Java Record](https://www.baeldung.com/java-record-keyword)
+- [Record usage](https://medium.com/@reetesh043/record-java-new-feature-daf97797bf3a)
+- [Command Design Pattern](https://www.youtube.com/watch?v=UfGD60BYzPM&t=234s)
+- [Strategy Design Pattern](https://www.digitalocean.com/community/tutorials/strategy-design-pattern-in-java-example-tutorial)
+
+### Practice
+- [Command implementation in JAVA](https://github.com/geekific-official/geekific-youtube/tree/main/design-patterns/behavioral-command/src/main/java/com/youtube/geekific)
+- [Command Undo & Redo Stack Implementation with MCV Pattern implemented with the help of Observer Pattern](https://github.com/AlexandruGH/AC_Inginerie_Software_2023-2024/tree/commandUndoRedoWithJavaFX)
+
+## Laboratory 10 - Project Presentation and Laboratory Test
