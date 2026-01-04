@@ -336,3 +336,71 @@ https://medium.com/@gabriellamedas/java-threads-and-executors-48963d26e878
 
 Level Four
 https://www.youtube.com/watch?v=N2sskKGnCqc
+
+
+## Laboratory 12 - Client Server, Peer-to-Peer, HTTP & REST, Async & Await
+
+### Theory
+- [Byzantine Generals Problem](https://youtu.be/dfsRQyYXOsQ?si=yEeTb3iaHnnx8x81)
+- [How Bitcoin works?](https://youtu.be/L-Qhv8kLESY?si=xS7DRzEkk_9JuL6H)
+- [MVC Explained](https://developer.mozilla.org/en-US/docs/Glossary/MVC)
+- [ACID](https://www.mongodb.com/basics/acid-transactions)
+- [Java POJO vs Java BEAN](https://www.geeksforgeeks.org/pojo-vs-java-beans/)
+- [Java Spring BEAN](https://www.baeldung.com/spring-bean)
+- [Transactional Behaviour](https://www.linode.com/docs/guides/a-primer-on-sql-transactions/)
+- [API - Application Programming Interface](https://www.techtarget.com/searchapparchitecture/definition/application-program-interface-API)
+- [HTTP vs REST](https://www.baeldung.com/cs/rest-vs-http)
+- [REST & RESTfull API Explained](https://youtu.be/lsMQRaeKNDk?si=0qgT0hvHqDG0WdHk)
+- [Top 10 most common HTTP status codes](https://www.dotcom-monitor.com/blog/the-10-most-common-http-status-codes/)
+- [HTTP PUT vs PATCH](https://www.baeldung.com/http-put-patch-difference-spring)
+- [Is Java A Compiled Language? Byte Code, JVM and JIT](https://www.youtube.com/watch?v=y6VvxGHCxa4&list=PLjrTIwaNiTwmFQfM8yQUUdBV_PjczAwcs&index=4)
+- [Asynchronous Programming in Java](https://www.baeldung.com/java-asynchronous-programming?fbclid=IwAR24Uf4COw6Om6u5Cr4vNt81S5MUdKSs6MJQRMainWgV_6eXeLm4PEliQyE)
+- [Virtual Threads - A different async/await](https://www.youtube.com/watch?v=JWZxyrHBppA)
+- [Virtual Threads - Death of Async Await](https://theboreddev.com/understanding-java-virtual-threads/?fbclid=IwAR2WZS3qv0JAxz3E8BtOZt6deliD8KPMi3Nt9i9Op9GLDJvjs0HTArhgeIc)
+- [CRUD API Design](https://blog.stoplight.io/crud-api-design)
+- [Best Practices for a Pragmatic RESTfull API](https://www.youtube.com/watch?v=JWZxyrHBppA)
+- [How Bittorent works](https://youtu.be/EkkFT1bRCT0?si=jNgNhW2HLHAg1Iqs)
+- [How Torrents Work](https://youtu.be/OFswNCU5CKA?si=s8DAOzUdDos4Z98K)
+- [TCP vs UDP](https://www.youtube.com/watch?v=v6m4DbhQQ_8)
+- [Actor Model Explained](https://youtu.be/ELwEdb_pD0k?si=F3a0PrClOydJlj6l)
+
+### Practice
+- [Postman Tutorial](https://youtu.be/CLG0ha_a0q8?si=xpkUZ4fv_q7lbTYp)
+
+
+## Laboratory 13 - Spring Security, Deployment, Scrapers & Crawlers and New Design Principles
+
+### Theory
+- [DRY KISS YAGNI](https://henriquesd.medium.com/dry-kiss-yagni-principles-1ce09d9c601f)
+- [Law Of Demeter](https://www.baeldung.com/java-demeter-law)
+- [SOC - Separation of Concerns](https://www.oreilly.com/library/view/software-architects-handbook/9781788624060/8ff905c2-217a-47f0-85c2-789296d42e8d.xhtml)
+- [DYC & SLAP](https://www.linkedin.com/pulse/6-programming-principles-you-should-know-sijin-thomas-ninan/)
+- [End-To-End Encryption](https://youtu.be/TImdsUglGv4?si=c601neNVq03z42j4)
+- [What REST actually is](https://codewords.recurse.com/issues/five/what-restful-actually-means)
+- [Query Parameters in Spring JPA](https://www.baeldung.com/jpa-query-parameters)
+- [@PathVariable vs @RequestParam](https://www.baeldung.com/spring-requestparam-vs-pathvariable)
+- [robots.txt sitemap.xml security.txt humans.txt](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/01-Information_Gathering/03-Review_Webserver_Metafiles_for_Information_Leakage)
+- [Honeypots in Cybersecurity](https://www.kaspersky.com/resource-center/threats/what-is-a-honeypot)
+- [Honeypots in Cybersecurity video](https://www.youtube.com/watch?v=1hGpB2P7WKI)
+- [Virus Total - free scanning for your downloaded applications](https://www.virustotal.com/)
+- [BCrypt Hashing Algorithm Explained](https://en.wikipedia.org/wiki/Bcrypt)
+- [Shallow Web vs Deep Web vs Dark Web](https://youtu.be/nKrODPtVinw?si=4fkfdiXNLYfG9yjR)
+- [Is Java Compiled or Interpreted? Both.](https://www.baeldung.com/java-compiled-interpreted)
+- [Statically vs Dynamically & Strong vs Weakly Typed Languages](https://velog.io/@dhlee91/Static-vs.-Dynamic-Strong-vs.-Weak-typing)
+- [Scraping vs Crawling](https://www.zyte.com/learn/difference-between-web-scraping-and-web-crawling/)
+- [A very brief description of 5 Software Architecture Patterns](https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2)
+  
+### Practice
+- [Postman tutorial Instructions: Get, Post, Put, Delete, Authentication](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md)
+- [Free online API to query](https://apipheny.io/free-api/)
+- [7 Free public API's you will love as a developer](https://dev.to/ruppysuppy/7-free-public-apis-you-will-love-as-a-developer-166p)
+- [Create your own @RestController Spring Boot API](https://medium.com/@midejoseph24/building-and-deploying-a-java-crud-rest-api-with-spring-boot-hibernate-mysql-docker-docker-5b7d1847345b)
+- [Spring Security](https://docs.spring.io/spring-security/reference/servlet/authentication/passwords/form.html?fbclid=IwAR3mlxUt7mb1VDBrxnChdy4kefdj3bWmXKGHYKC1TPzHYRGnXyoMGkQlNHw)
+- [Spring @RestController = @Controller + @ResponseBody](https://www.baeldung.com/spring-controller-vs-restcontroller)
+- [Scraping BeautifulSoup vs Selenium vs Scrapy](https://www.youtube.com/watch?v=J82SxHP5SWY)
+- [Web Scraping Full Beginner Tutorial](https://www.youtube.com/playlist?list=PLRzwgpycm-FiTz9bGQoITAzFEOJkbF6Qp)
+- [Scraping Amazon Product Reviews](https://dev.to/mohammadfaisal/scraping-amazon-product-reviews-2e3g?fbclid=IwAR3Xq2lzfzEaxW8QF14ailAnLx7U1w7bzA6ndZ8T-9B7kr5kHnrkKPoJsgQ)
+- [Spring Security Project](https://github.com/AlexandruGH/SpringBootRenderExample)
+
+### Bonus 
+- [Deploy Spring Boot app with Railway](https://www.youtube.com/watch?v=F-Y67-DiM9c&t=348s)
