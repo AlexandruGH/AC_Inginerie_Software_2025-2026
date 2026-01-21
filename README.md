@@ -456,3 +456,6 @@ https://www.youtube.com/watch?v=N2sskKGnCqc
 - [Mutual Funds vs Index Funds](https://www.newyorklife.com/articles/index-fund-vs-mutual-fund)
 - [Index Funds vs ETF's](https://www.investopedia.com/ask/answers/033015/whats-difference-between-index-fund-and-etf.asp)
 - [How The Economic Machine Works by Ray Dalio](https://youtu.be/PHe0bXAIuk0?si=ITZdU0cvrc2FS692)
+
+- [Charlie Munger Explains The Psychology Of Money](https://youtu.be/TOQS9A2mPMQ?si=qGLarW5DgvA0U1rl)
+- [Ray Dalio - How The Economic Machine Works](https://youtu.be/PHe0bXAIuk0?si=hF-lDkqLMmHAlcn8)
