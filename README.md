@@ -404,3 +404,55 @@ https://www.youtube.com/watch?v=N2sskKGnCqc
 
 ### Bonus 
 - [Deploy Spring Boot app with Railway](https://www.youtube.com/watch?v=F-Y67-DiM9c&t=348s)
+
+## Laboratory 14 - Project Presentations and Evaluation
+
+## Bonus Lab 
+
+- [CV Software Intern Examples](https://www.beamjobs.com/resumes/software-engineer-intern-resume-examples)
+
+### Algorithmic Interview Problems
+- [Best Time to Buy and Sell Stock](https://youtu.be/3EehPI_BkFk?si=iApeMxANG2oOKILO)
+- [Longest Increasing Subsequence - GeeksForGeeks](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/)
+- [Longest Increasing Subsequence - Video](https://www.youtube.com/watch?v=CE2b_-XfVDk&ab_channel=TusharRoy-CodingMadeSimple)
+- [Longest Common Subsequence](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)
+- [Kruskal Minimum Spanning Tree - Check also Disjoint set forest implementation](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
+- [K’th Smallest Element in Unsorted Array](https://www.geeksforgeeks.org/kth-smallest-largest-element-in-unsorted-array/)
+- [Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/?ref=header_outind)
+
+### Theory 
+
+- [101 Web Development Concepts you should know](https://youtu.be/erEgovG9WBs?si=4rXRKqvHH79WNqtB)
+- [Agile vs Waterfall Methodology](https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/)
+- [Agile vs Waterfall. What's the difference?](https://www.theserverside.com/tip/Agile-vs-Waterfall-Whats-the-difference)
+- [Martin Fowler Software Architecture Short Guide](https://martinfowler.com/architecture/)
+- [5 Architecture Design Patterns](https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2)
+- [Martin Fowler - Patterns of Enterprise Application Architecture](https://dl.ebooksworld.ir/motoman/Patterns%20of%20Enterprise%20Application%20Architecture.pdf)
+- [Web Development Career Paths](https://www.youtube.com/watch?v=1_gLbLPx2T8)
+
+
+### Practice
+- [Spring Boot & React & MySql & Docker & JWT Web Application](https://youtu.be/VFVI1svmy04?si=BXlac-I8yMqrH1FJ)
+- [Deploy a Full Stack Spring Boot & React App with Database for FREE](https://youtu.be/jBDTsf8jsEs?si=1E76OBUnpBmF9Z9W)
+- [HTML & CSS Tutorial](https://youtu.be/HGTJBPNC-Gw?si=KcyKxZqCxK1xuzks)
+- [JavaScript Tutorial](https://youtu.be/lfmg-EJ8gm4?si=-IRshS1wYWVzwrGI)
+- [React Tutorial](https://youtu.be/CgkZ7MvWUAA?si=kUKhQ2CQ5I9qhUeH)
+- [MERN Stack Full Project](https://www.youtube.com/watch?v=CvCiNeLnZ00)
+- [Odin Project - Full Stack Java Script Path](https://www.theodinproject.com/paths)
+- [Freecodecamp - Full Stack and beyond](https://www.freecodecamp.org/learn)
+- [How to learn React?](https://www.freecodecamp.org/news/the-react-roadmap-learn-react/?fbclid=IwAR1etzCJQ_Pbw8BkFXsaMWNqSdYRVqUNEMQyhq7d539xAz3VnKyuueCli0M)
+- [NodeJS Backend Roadmap](https://github.com/alirezanqp/nodejs-backend-roadmap?fbclid=IwAR0sZdasKTz8USINPWdDfL9fUiKDl5KY8UIv8DHvWKhWMI3d7Ybw2bN9oeA)
+- [Juice Shop Penetration Testing](https://github.com/juice-shop/juice-shop)
+- [Crypto Zombie Blockchain Smart Contracts with Solidity Tutorial](https://cryptozombies.io/en/solidity)
+
+
+## Bonus Financial Independence
+- [How the pension pillars I, II, III work?](https://www.youtube.com/watch?v=SmFn2FlaVVw)
+- [The 8th Wonder of the World - Compound Interest](https://www.indiatimes.com/worth/news/albert-einstein-compound-interest-eighth-wonder-of-the-world-614000.html)
+- [Stock Market Guide with Dividend Growth Investing Explained](https://www.youtube.com/watch?v=nUyX7gH2H58&t=4s)
+- [What house and car you can afford?](https://www.youtube.com/live/YINuutgoiRA?si=gOK5Zsr5cq0dqRr4)
+- [13 Mistakes in house acquisition](https://www.youtube.com/watch?v=W_CmxY-KV_g)
+- [How to early pay the mortgage loan?](https://www.youtube.com/watch?v=G_229dl7kQ8)
+- [Mutual Funds vs Index Funds](https://www.newyorklife.com/articles/index-fund-vs-mutual-fund)
+- [Index Funds vs ETF's](https://www.investopedia.com/ask/answers/033015/whats-difference-between-index-fund-and-etf.asp)
+- [How The Economic Machine Works by Ray Dalio](https://youtu.be/PHe0bXAIuk0?si=ITZdU0cvrc2FS692)
